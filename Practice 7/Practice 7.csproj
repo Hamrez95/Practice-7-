@@ -8,8 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Practice7Part2\" />
-  </ItemGroup>
-
 </Project>
